@@ -16,7 +16,7 @@ A rhythm-based piano game where players hit falling tiles to the music.
 ### Running in Unity Editor
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/PianoCoreProject.git
+git clone https://github.com/dDatj02/PianoCoreProject
 ```
 
 2. Open the project in Unity:
